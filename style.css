@@ -19,10 +19,10 @@ section#board {
 
 .snake {
   background-color: chartreuse;
-  border: 0.25vmin solid white;
+  border: 0.25vmin solid rgb(19, 126, 37);
 }
 
 .pray {
   background-color: gray;
-  border: 0.25vmin solid white;
+  border: 0.5vmin dotted rgb(0, 0, 0);
 }
