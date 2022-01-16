@@ -10,13 +10,13 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
+- JavaScript, CSS3, HTML
 - Frameworks
 - Technologies used
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://carloshs1994.github.io/snakeGame/)
 
 
 ## Getting Started
