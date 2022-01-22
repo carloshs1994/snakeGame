@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Easy Science Page
+# Snake Game
 
 > This is a basic Snake Game, It was build using JavaScript, CSS3 and HTML.
 
